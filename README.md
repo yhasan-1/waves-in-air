@@ -24,3 +24,18 @@ isolation, classism, trust, and language barriers.
 - Communication-based puzzles
 - Multiple themed environments
 - Custom interaction mechanics
+
+## Screenshots
+
+### Opening Scene
+<img src="Waves%20in%20Air%20Screenshots/Waves%20In%20Air%20Opening.png" width="700">
+
+### Dialogue
+<img src="Waves%20in%20Air%20Screenshots/Waves%20In%20Air%20Dialogue.png" width="700">
+
+### Flower Bed Puzzle
+
+<p>
+  <img src="Waves%20in%20Air%20Screenshots/Waves%20in%20Air%20Flower%20Bed%20Before.png" width="45%">
+  <img src="Waves%20in%20Air%20Screenshots/Waves%20In%20Air%20Flower%20Bed%20After.png" width="45%">
+</p>
